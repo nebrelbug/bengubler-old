@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Introducing Squirrelly"
+title: "TensorFlow.js: An intro and analysis with use cases"
 authors: []
-date: 2018-09-26T15:25:30-06:00
+date: 2019-04-24T16:21:49-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-18T16:25:04-06:00
+publishDate: 2020-05-18T16:21:49-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "I introduce Squirrelly, a new JS template engine. I highlight some of its features, like helpers and filters."
+summary: "I discuss TensorFlow.js, and outline possible use cases for it."
 
 tags: []
 categories: []
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Read Article
-  url: https://hackernoon.com/introducing-squirrelly-a-fast-lightweight-and-simple-js-template-engine-70a873d765c9
+  url: https://blog.logrocket.com/tensorflow-js-an-intro-and-analysis-with-use-cases-8e1f9a973183/
 
 url_pdf:
 url_code:
@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [squirrelly]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

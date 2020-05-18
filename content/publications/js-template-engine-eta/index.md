@@ -3,12 +3,11 @@
 
 title: "I built a JS template engine 3x faster than EJS"
 authors: []
-date: 2020-05-18T15:25:37-06:00
+date: 2020-04-11T15:25:37-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-04-11T15:25:37-06:00
-
+publishDate: 2020-05-18T15:25:37-06:00
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -30,11 +29,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: Read Article
+    url: https://dev.to/nebrelbug/i-built-a-js-template-engine-3x-faster-than-ejs-lj8
 
 url_pdf:
 url_code:

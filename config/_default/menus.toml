@@ -2,31 +2,30 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+[[main]]
+name = "Home"
+url = "#about"
+weight = 10
 
 [[main]]
-  name = "Home"
-  url = "#about"
-  weight = 10
+name = "Posts"
+url = "#posts"
+weight = 20
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+name = "Projects"
+url = "#projects"
+weight = 30
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+name = "Publications"
+url = "#featured"
+weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+name = "Contact"
+url = "#contact"
+weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -34,3 +33,15 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+# [[main_right]]
+# name = "<i class=\"fab fa-github-alt\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+# post = ""
+# url = "https://github.com/nebrelbug/"
+# weight = 10
+
+[[main_right]]
+name = "Pay Me"
+post = ""
+url = "https://www.paypal.me/bengubler"
+weight = 20

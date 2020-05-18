@@ -247,7 +247,7 @@ zoom = 15
 ## Marketing
 ############################
 [marketing]
-google_analytics = ""
+google_analytics = "UA-92066007-1"
 google_tag_manager = ""
 
 ############################

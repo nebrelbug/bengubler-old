@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Squirrelly"
-summary: "Squirrelly is the fastest full-featured JS template engine."
+summary: "Squirrelly is the fastest full-featured JS template engine available."
 authors: []
 tags: []
 categories: []
-date: 2020-05-18T15:23:33-06:00
+date: 2020-05-19T10:23:33-06:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

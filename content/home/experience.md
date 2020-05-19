@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   location = "Ecuador"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Traveled with a group of Maeser students, for 3 weeks service in orphanages in Ecuador"""
+  description = """3 weeks of service in orphanages in Ecuador"""
 
 [[experience]]
   title = "Volunteer Youth Leader"
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   location = "Utah"
   date_start = "2017-06-14"
   date_end = "2019-06-21"
-  description = """Volunteer youth leader at week-long high-adventure camp in the summers of 2017 and 2019"""
+  description = """Volunteer youth leader at week-long high-adventure leadership training camp"""
 
 [[experience]]
   title = "Technology Writer"
@@ -68,6 +68,6 @@ date_format = "Jan 2006"
   location = "Utah"
   date_start = "2015-06-01"
   date_end = "2017-08-31"
-  description = """Paid freelance article-writer for software company LogRocket’s blog. Wrote about AI framework TensorFlow.js"""
+  description = """Ran successful lawn-mowing business during the summers"""
 
 +++

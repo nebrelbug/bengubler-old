@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = "For our work on an innovative hammock design, my partner and I received a cash prize and recognition"
+  description = "$1300 cash award for an innovative hammock design"
 
 [[item]]
   organization = "High School Utah Entrepreneur Challenge"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
-  description = "Awarded $1000 housing scholarship to Lassonde Studios at the U of U as a winner of the High School Utah Entrepreneur Challenge"
+  description = "$1000 scholarship to Lassonde Studios at the U of U as a winner of the High School Utah Entrepreneur Challenge (HSUEC)"
 
 [[item]]
   organization = "Utah Sterling Scholars"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-03-19"
   date_end = ""
-  description = "Sterling Scholar Finalist in Computer Technology, and then the sole recipient of the Philo T. Farnsworth Governor's award (which recognizes outstanding scholarship and innovation in the technical sciences)"
+  description = "Only recipient of the Philo T. Farnsworth Governor’s Award for outstanding scholarship and innovation in a technical field"
 
 [[item]]
   organization = ""

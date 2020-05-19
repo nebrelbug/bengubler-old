@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-    - course: Beginning Freshman
-      institution: Brigham Young University
-      year: Fall 2020
-    - course: High School
-      institution: Maeser Preparatory Academy
-      year: 2016-2020
+    - course: Brigham Young University
+      institution: Fall 2020 -
+      year:
+    - course: Maeser Preparatory Academy
+      institution: 2016-2020
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,6 +64,6 @@ email: "nebrelbug@gmail.com"
 #   - Visitors
 ---
 
-Ben Gubler is a student interested in all things tech. Most of his programming is in JavaScript/TypeScript, but he also enjoys writing in Python, and sometimes Rust, Go, and C++.
+Ben Gubler is interested in all things tech. Most of his programming is in JavaScript/TypeScript, but he also enjoys writing in Python, and sometimes Rust, Go, and C++.
 
 He is the creator and lead developer of [Squirrelly](https://squirrelly.js.org) and [Eta](https://eta.js.org), two of the fastest JavaScript template engines. He is currently creating a Chrome Extension he plans to release soon.

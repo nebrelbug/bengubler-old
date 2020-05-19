@@ -40,6 +40,16 @@ date_format = "Jan 2006"
   description = "Awarded $1000 housing scholarship to Lassonde Studios at the U of U as a winner of the High School Utah Entrepreneur Challenge"
 
 [[item]]
+  organization = "Utah Sterling Scholars"
+  organization_url = "http://www.sterlingscholar.org/"
+  title = "Philo T. Farnsworth Governor's award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-19"
+  date_end = ""
+  description = "Sterling Scholar Finalist in Computer Technology, and then the sole recipient of the Philo T. Farnsworth Governor's award (which recognizes outstanding scholarship and innovation in the technical sciences)"
+
+[[item]]
   organization = ""
   organization_url = ""
   title = "District Science Fair Winner"
